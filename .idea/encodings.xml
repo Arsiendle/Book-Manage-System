@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/MyJavabean/Book.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/MyJavabean/User.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/MyJavabean/brand.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/MyUtil/CollectUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/MyUtil/ComUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/MyUtil/DBUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/MyUtil/EnterUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/MyUtil/ModifUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/MyUtil/RegitUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/entry.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../LibraryManageSystem-master/src/com/littleheap/DataBase/TableOperate.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../LibraryManageSystem-master/src/com/littleheap/Static/Information.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
